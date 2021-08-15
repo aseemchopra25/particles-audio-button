@@ -1,6 +1,6 @@
 # react-particle-effect-button with audio
 
-> Bursting particle effect buttons for React.
+> Bursting particle effect buttons with audio play for React.
 
 
 ![Alt Text](https://raw.githubusercontent.com/aseemchopra25/particles-audio-button/main/public/particles-button-music.gif)
