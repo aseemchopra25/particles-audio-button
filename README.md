@@ -1,3 +1,29 @@
+# react-particle-effect-button with audio
+
+> Bursting particle effect buttons for React.
+
+
+![Alt Text](https://raw.githubusercontent.com/aseemchopra25/particles-audio-button/main/public/particles-button-music.gif)
+
+
+This builds upon the work of original repository by [transitive bullshit](https://github.com/transitive-bullshit/react-particle-effect-button).
+
+This uses a React port library of an awesome [Codrops Article](https://tympanus.net/codrops/2018/04/25/particle-effects-for-buttons/) by [Luis Manuel](https://tympanus.net/codrops/author/luis/) (original [source](https://github.com/codrops/ParticleEffectsButtons/)).
+
+## Related
+
+- [anime.js](http://animejs.com/) - Underlying animation engine.
+- [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons/) - Original source this library is based on.
+- [Codrops Article](https://tympanus.net/codrops/2018/04/25/particle-effects-for-buttons/) - Original article this library is based on.
+
+https://github.com/transitive-bullshit/react-particle-effect-button/blob/master/readme.md
+
+
+## Required Install
+
+```bash
+npm install --save react-particle-effect-button
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
