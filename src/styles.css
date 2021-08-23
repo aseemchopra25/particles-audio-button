@@ -2,17 +2,15 @@
     font-family: sans-serif;
     text-align: center;
   }
-.testing{
+/* .testing{
   display: flex;
   justify-content: center;
-  /* align-items: center; */
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  /* margin-right: 50%; */
   margin-top: auto;
   margin-bottom: auto;
-}
+} */
 /* .particle-canvas {
   position:fixed !important;
   left:0;
