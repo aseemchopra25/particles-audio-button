@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/my-app/static/js/main.04d6d9d6.chunk.js",
-    "main.js.map": "/my-app/static/js/main.04d6d9d6.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.fe5960cc.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.fe5960cc.js.map",
-    "static/js/2.653bed8a.chunk.js": "/my-app/static/js/2.653bed8a.chunk.js",
-    "static/js/2.653bed8a.chunk.js.map": "/my-app/static/js/2.653bed8a.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/js/2.653bed8a.chunk.js.LICENSE.txt": "/my-app/static/js/2.653bed8a.chunk.js.LICENSE.txt"
+    "main.js": "/particles-audio-button/static/js/main.04d6d9d6.chunk.js",
+    "main.js.map": "/particles-audio-button/static/js/main.04d6d9d6.chunk.js.map",
+    "runtime-main.js": "/particles-audio-button/static/js/runtime-main.93d83abf.js",
+    "runtime-main.js.map": "/particles-audio-button/static/js/runtime-main.93d83abf.js.map",
+    "static/js/2.653bed8a.chunk.js": "/particles-audio-button/static/js/2.653bed8a.chunk.js",
+    "static/js/2.653bed8a.chunk.js.map": "/particles-audio-button/static/js/2.653bed8a.chunk.js.map",
+    "index.html": "/particles-audio-button/index.html",
+    "static/js/2.653bed8a.chunk.js.LICENSE.txt": "/particles-audio-button/static/js/2.653bed8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe5960cc.js",
+    "static/js/runtime-main.93d83abf.js",
     "static/js/2.653bed8a.chunk.js",
     "static/js/main.04d6d9d6.chunk.js"
   ]
