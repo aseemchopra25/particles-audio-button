@@ -92,7 +92,7 @@ export default class App extends Component {
             }}>Play Audio</span>
         </button>
         <audio className="audio-element">
-          <source src="/bg.mp3"></source>
+          <source src="https://raw.githubusercontent.com/aseemchopra25/particles-audio-button/main/public/bg.mp3"></source>
         </audio>
       </div>
       </ParticleEffectButton>
