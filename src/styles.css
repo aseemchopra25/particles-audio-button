@@ -2,4 +2,12 @@
     font-family: sans-serif;
     text-align: center;
   }
-  
+.testing{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+  height: 100%;
+  margin-top: 50%;
+}
