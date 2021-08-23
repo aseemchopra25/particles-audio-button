@@ -3,7 +3,7 @@
 > Bursting particle effect buttons with audio play for React.
 
 
-![Alt Text](https://raw.githubusercontent.com/aseemchopra25/particles-audio-button/main/public/particles-button-music.gif)
+![Alt Text](https://raw.githubusercontent.com/aseemchopra25/external-files/main/particle-x.gif)
 
 
 This builds upon the work of original repository by [transitive bullshit](https://github.com/transitive-bullshit/react-particle-effect-button).
