@@ -1,6 +1,7 @@
 import React, { Component } from "react"
 import ReactDOM from 'react-dom';
 import ParticleEffectButton from 'react-particle-effect-button';
+import ParticlesBg from 'particles-bg'
 import './styles.css'
 export default class App extends Component {
   state = {
@@ -14,8 +15,13 @@ export default class App extends Component {
   onClick = () => {this.setState({ hidden: !this.state.hidden })}
   render() {
     return (
+      
+      
         <React.Fragment>
+        
+
         <ParticleEffectButton className="testing" color="#121019" hidden={this.state.hidden}>
+          
       <div>
         <button 
         // onClick={this.playAudio} 
@@ -49,9 +55,14 @@ export default class App extends Component {
         <audio className="audio-element">
           <source src="https://raw.githubusercontent.com/aseemchopra25/particles-audio-button/main/public/bg.mp3"></source>
         </audio>
+        
       </div>
+      
       </ParticleEffectButton>
+      {/* Added Particle Background  */}
+      <ParticlesBg type="cobweb" bg={true} />
       </React.Fragment>
+      
     );
   }
 }
