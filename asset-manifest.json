@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/particles-audio-button/static/css/main.c8fb5400.chunk.css",
+    "main.css": "/particles-audio-button/static/css/main.7283afa3.chunk.css",
     "main.js": "/particles-audio-button/static/js/main.ca645d21.chunk.js",
     "main.js.map": "/particles-audio-button/static/js/main.ca645d21.chunk.js.map",
     "runtime-main.js": "/particles-audio-button/static/js/runtime-main.93d83abf.js",
@@ -8,13 +8,13 @@
     "static/js/2.eab915e7.chunk.js": "/particles-audio-button/static/js/2.eab915e7.chunk.js",
     "static/js/2.eab915e7.chunk.js.map": "/particles-audio-button/static/js/2.eab915e7.chunk.js.map",
     "index.html": "/particles-audio-button/index.html",
-    "static/css/main.c8fb5400.chunk.css.map": "/particles-audio-button/static/css/main.c8fb5400.chunk.css.map",
+    "static/css/main.7283afa3.chunk.css.map": "/particles-audio-button/static/css/main.7283afa3.chunk.css.map",
     "static/js/2.eab915e7.chunk.js.LICENSE.txt": "/particles-audio-button/static/js/2.eab915e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93d83abf.js",
     "static/js/2.eab915e7.chunk.js",
-    "static/css/main.c8fb5400.chunk.css",
+    "static/css/main.7283afa3.chunk.css",
     "static/js/main.ca645d21.chunk.js"
   ]
 }
